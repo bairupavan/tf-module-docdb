@@ -10,3 +10,5 @@ variable "port" {
 }
 variable "vpc_id" {}
 variable "allow_db_cidr" {}
+variable "instance_count" {}
+variable "instance_class" {}
